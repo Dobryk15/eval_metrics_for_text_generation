@@ -1,0 +1,1501 @@
+Start
+created hits
+sampledoc-0 1 0.7999999999999999
+Start
+created hits
+sampledoc-0 2 0.68
+Start
+created hits
+sampledoc-0 3 0.48648648648648646
+Start
+created hits
+sampledoc-0 4 0.46153846153846156
+Start
+created hits
+sampledoc-0 5 0.3888888888888889
+Start
+created hits
+sampledoc-0 6 0.7346938775510204
+Start
+created hits
+sampledoc-0 7 0.25
+Start
+created hits
+sampledoc-0 8 0.34285714285714286
+Start
+created hits
+sampledoc-0 9 0.75
+Start
+created hits
+sampledoc-0 10 1.0
+Start
+created hits
+sampledoc-0 11 0.6666666666666666
+Start
+created hits
+sampledoc-0 12 0.6666666666666667
+Start
+created hits
+sampledoc-0 13 0.7199999999999999
+Start
+created hits
+sampledoc-0 14 0.6153846153846154
+Start
+created hits
+sampledoc-0 15 0.47619047619047616
+Start
+created hits
+sampledoc-0 16 0.6190476190476191
+Start
+created hits
+sampledoc-0 17 0.6923076923076924
+Start
+created hits
+sampledoc-0 18 0.6153846153846153
+Start
+created hits
+sampledoc-0 19 0.7142857142857143
+Start
+created hits
+sampledoc-0 20 0.49056603773584906
+Start
+created hits
+sampledoc-0 21 0.6818181818181819
+Start
+created hits
+sampledoc-0 22 0.6538461538461539
+Start
+created hits
+sampledoc-0 23 0.7692307692307692
+Start
+created hits
+sampledoc-0 24 0.27999999999999997
+Start
+created hits
+sampledoc-0 25 0.6067415730337078
+Start
+created hits
+sampledoc-0 26 0.3636363636363636
+Start
+created hits
+sampledoc-0 27 0.14814814814814814
+Start
+created hits
+sampledoc-0 28 0.5555555555555556
+Start
+created hits
+sampledoc-0 29 0.39416058394160586
+Start
+created hits
+sampledoc-0 30 0.380952380952381
+Start
+created hits
+sampledoc-0 31 0.6521739130434783
+Start
+created hits
+sampledoc-0 32 0.6538461538461539
+Start
+created hits
+sampledoc-0 33 0.4444444444444445
+Start
+created hits
+sampledoc-0 34 0.6153846153846153
+Start
+created hits
+sampledoc-0 35 0.43243243243243246
+Start
+created hits
+sampledoc-0 36 0.24999999999999994
+Start
+created hits
+sampledoc-0 37 0.6666666666666666
+Start
+created hits
+sampledoc-0 38 0.7142857142857143
+Start
+created hits
+sampledoc-0 39 0.5714285714285715
+Start
+created hits
+sampledoc-0 40 0.65
+Start
+created hits
+sampledoc-0 41 0.4680851063829788
+Start
+created hits
+sampledoc-0 42 0.6666666666666666
+Start
+created hits
+sampledoc-0 43 0.6046511627906976
+Start
+created hits
+sampledoc-0 44 0.4210526315789474
+Start
+created hits
+sampledoc-0 45 0.3953488372093023
+Start
+created hits
+sampledoc-0 46 0.35000000000000003
+Start
+created hits
+sampledoc-0 47 0.8387096774193549
+Start
+created hits
+sampledoc-0 48 0.47058823529411764
+Start
+created hits
+sampledoc-0 49 0.6153846153846153
+Start
+created hits
+sampledoc-0 50 0.6086956521739131
+Start
+created hits
+sampledoc-0 51 0.8
+Start
+created hits
+sampledoc-0 52 0.5555555555555556
+Start
+created hits
+sampledoc-0 53 0.4230769230769231
+Start
+created hits
+sampledoc-0 54 0.3773584905660377
+Start
+created hits
+sampledoc-0 55 0.49056603773584906
+Start
+created hits
+sampledoc-0 56 0.6190476190476191
+Start
+created hits
+sampledoc-0 57 0.3333333333333333
+Start
+created hits
+sampledoc-0 58 0.26666666666666666
+Start
+created hits
+sampledoc-0 59 0.6250000000000001
+Start
+created hits
+sampledoc-0 60 0.8181818181818182
+Start
+created hits
+sampledoc-0 61 0.5217391304347826
+Start
+created hits
+sampledoc-0 62 0.2962962962962963
+Start
+created hits
+sampledoc-0 63 0.5789473684210527
+Start
+created hits
+sampledoc-0 64 0.5161290322580646
+Start
+created hits
+sampledoc-0 65 0.6530612244897959
+Start
+created hits
+sampledoc-0 66 0.5172413793103449
+Start
+created hits
+sampledoc-0 67 0.5365853658536586
+Start
+created hits
+sampledoc-0 68 0.5681818181818182
+Start
+created hits
+sampledoc-0 69 0.6857142857142857
+Start
+created hits
+sampledoc-0 70 0.47058823529411764
+Start
+created hits
+sampledoc-0 71 0.5084745762711865
+Start
+created hits
+sampledoc-0 72 1.0
+Start
+created hits
+sampledoc-0 73 0.28571428571428575
+Start
+created hits
+sampledoc-0 74 0.6666666666666667
+Start
+created hits
+sampledoc-0 75 0.5833333333333334
+Start
+created hits
+sampledoc-0 76 0.4827586206896552
+Start
+created hits
+sampledoc-0 77 0.8333333333333334
+Start
+created hits
+sampledoc-0 78 0.26666666666666666
+Start
+created hits
+sampledoc-0 79 0.7
+Start
+created hits
+sampledoc-0 80 0.23529411764705882
+Start
+created hits
+sampledoc-0 81 0.3157894736842105
+Start
+created hits
+sampledoc-0 82 0.4444444444444445
+Start
+created hits
+sampledoc-0 83 0.36363636363636365
+Start
+created hits
+sampledoc-0 84 0.6666666666666666
+Start
+created hits
+sampledoc-0 85 0.47058823529411764
+Start
+created hits
+sampledoc-0 86 0.6190476190476191
+Start
+created hits
+sampledoc-0 87 0.0
+Start
+created hits
+sampledoc-0 88 0.33333333333333326
+Start
+created hits
+sampledoc-0 89 0.4126984126984127
+Start
+created hits
+sampledoc-0 90 0.6315789473684211
+Start
+created hits
+sampledoc-0 91 0.5373134328358209
+Start
+created hits
+sampledoc-0 92 0.68
+Start
+created hits
+sampledoc-0 93 0.5753424657534247
+Start
+created hits
+sampledoc-0 94 0.9
+Start
+created hits
+sampledoc-0 95 0.5185185185185186
+Start
+created hits
+sampledoc-0 96 0.5660377358490567
+Start
+created hits
+sampledoc-0 97 0.509090909090909
+Start
+created hits
+sampledoc-0 98 0.823529411764706
+Start
+created hits
+sampledoc-0 99 0.48888888888888893
+Start
+created hits
+sampledoc-0 100 0.47222222222222227
+Start
+created hits
+sampledoc-0 101 0.6666666666666666
+Start
+created hits
+sampledoc-0 102 0.39999999999999997
+Start
+created hits
+sampledoc-0 103 0.41666666666666663
+Start
+created hits
+sampledoc-0 104 0.2105263157894737
+Start
+created hits
+sampledoc-0 105 0.23529411764705882
+Start
+created hits
+sampledoc-0 106 0.4878048780487805
+Start
+created hits
+sampledoc-0 107 0.2222222222222222
+Start
+created hits
+sampledoc-0 108 0.18181818181818182
+Start
+created hits
+sampledoc-0 109 0.5
+Start
+created hits
+sampledoc-0 110 0.7199999999999999
+Start
+created hits
+sampledoc-0 111 0.5283018867924529
+Start
+created hits
+sampledoc-0 112 0.28571428571428564
+Start
+created hits
+sampledoc-0 113 0.10526315789473685
+Start
+created hits
+sampledoc-0 114 0.28571428571428564
+Start
+created hits
+sampledoc-0 115 0.6521739130434783
+Start
+created hits
+sampledoc-0 116 0.3
+Start
+created hits
+sampledoc-0 117 0.5161290322580646
+Start
+created hits
+sampledoc-0 118 0.7000000000000001
+Start
+created hits
+sampledoc-0 119 0.5957446808510638
+Start
+created hits
+sampledoc-0 120 0.6666666666666666
+Start
+created hits
+sampledoc-0 121 0.4
+Start
+created hits
+sampledoc-0 122 0.5
+Start
+created hits
+sampledoc-0 123 0.7142857142857143
+Start
+created hits
+sampledoc-0 124 0.44943820224719105
+Start
+created hits
+sampledoc-0 125 0.6153846153846153
+Start
+created hits
+sampledoc-0 126 0.4186046511627907
+Start
+created hits
+sampledoc-0 127 0.4918032786885246
+Start
+created hits
+sampledoc-0 128 0.3703703703703703
+Start
+created hits
+sampledoc-0 129 0.7529411764705882
+Start
+created hits
+sampledoc-0 130 0.5306122448979591
+Start
+created hits
+sampledoc-0 131 0.47619047619047616
+Start
+created hits
+sampledoc-0 132 0.75
+Start
+created hits
+sampledoc-0 133 0.5714285714285715
+Start
+created hits
+sampledoc-0 134 0.47619047619047616
+Start
+created hits
+sampledoc-0 135 0.6666666666666665
+Start
+created hits
+sampledoc-0 136 0.507936507936508
+Start
+created hits
+sampledoc-0 137 0.48484848484848486
+Start
+created hits
+sampledoc-0 138 0.6000000000000001
+Start
+created hits
+sampledoc-0 139 0.7
+Start
+created hits
+sampledoc-0 140 0.3333333333333333
+Start
+created hits
+sampledoc-0 141 0.47058823529411764
+Start
+created hits
+sampledoc-0 142 0.8888888888888888
+Start
+created hits
+sampledoc-0 143 0.8125
+Start
+created hits
+sampledoc-0 144 0.7058823529411765
+Start
+created hits
+sampledoc-0 145 0.4
+Start
+created hits
+sampledoc-0 146 0.64
+Start
+created hits
+sampledoc-0 147 0.0
+Start
+created hits
+sampledoc-0 148 0.6153846153846154
+Start
+created hits
+sampledoc-0 149 0.0
+Start
+created hits
+sampledoc-0 150 0.6511627906976744
+Start
+created hits
+sampledoc-0 151 0.13333333333333333
+Start
+created hits
+sampledoc-0 152 0.4848484848484849
+Start
+created hits
+sampledoc-0 153 0.5641025641025641
+Start
+created hits
+sampledoc-0 154 0.29787234042553196
+Start
+created hits
+sampledoc-0 155 0.8421052631578948
+Start
+created hits
+sampledoc-0 156 0.4827586206896552
+Start
+created hits
+sampledoc-0 157 0.6000000000000001
+Start
+created hits
+sampledoc-0 158 0.16666666666666666
+Start
+created hits
+sampledoc-0 159 0.5294117647058824
+Start
+created hits
+sampledoc-0 160 0.5263157894736842
+Start
+created hits
+sampledoc-0 161 0.07692307692307691
+Start
+created hits
+sampledoc-0 162 1.0
+Start
+created hits
+sampledoc-0 163 0.5423728813559322
+Start
+created hits
+sampledoc-0 164 0.24
+Start
+created hits
+sampledoc-0 165 0.30303030303030304
+Start
+created hits
+sampledoc-0 166 0.28571428571428564
+Start
+created hits
+sampledoc-0 167 0.5333333333333333
+Start
+created hits
+sampledoc-0 168 0.6363636363636365
+Start
+created hits
+sampledoc-0 169 0.5925925925925926
+Start
+created hits
+sampledoc-0 170 0.5128205128205129
+Start
+created hits
+sampledoc-0 171 0.3870967741935484
+Start
+created hits
+sampledoc-0 172 0.3888888888888889
+Start
+created hits
+sampledoc-0 173 0.9696969696969697
+Start
+created hits
+sampledoc-0 174 0.5
+Start
+created hits
+sampledoc-0 175 0.41666666666666663
+Start
+created hits
+sampledoc-0 176 0.4782608695652174
+Start
+created hits
+sampledoc-0 177 0.39999999999999997
+Start
+created hits
+sampledoc-0 178 0.3333333333333333
+Start
+created hits
+sampledoc-0 179 0.6896551724137931
+Start
+created hits
+sampledoc-0 180 0.5625
+Start
+created hits
+sampledoc-0 181 0.53125
+Start
+created hits
+sampledoc-0 182 0.48148148148148145
+Start
+created hits
+sampledoc-0 183 0.39999999999999997
+Start
+created hits
+sampledoc-0 184 0.4444444444444445
+Start
+created hits
+sampledoc-0 185 0.5384615384615384
+Start
+created hits
+sampledoc-0 186 0.6470588235294118
+Start
+created hits
+sampledoc-0 187 0.4827586206896552
+Start
+created hits
+sampledoc-0 188 0.48192771084337344
+Start
+created hits
+sampledoc-0 189 0.5555555555555555
+Start
+created hits
+sampledoc-0 190 0.4074074074074074
+Start
+created hits
+sampledoc-0 191 0.4657534246575342
+Start
+created hits
+sampledoc-0 192 0.6333333333333333
+Start
+created hits
+sampledoc-0 193 0.0
+Start
+created hits
+sampledoc-0 194 0.35
+Start
+created hits
+sampledoc-0 195 0.09999999999999999
+Start
+created hits
+sampledoc-0 196 0.4878048780487805
+Start
+created hits
+sampledoc-0 197 0.6666666666666667
+Start
+created hits
+sampledoc-0 198 0.8125000000000001
+Start
+created hits
+sampledoc-0 199 0.6451612903225806
+Start
+created hits
+sampledoc-0 200 0.4736842105263158
+Start
+created hits
+sampledoc-0 201 0.4390243902439024
+Start
+created hits
+sampledoc-0 202 0.3218390804597701
+Start
+created hits
+sampledoc-0 203 1.0
+Start
+created hits
+sampledoc-0 204 0.5631067961165048
+Start
+created hits
+sampledoc-0 205 0.7272727272727273
+Start
+created hits
+sampledoc-0 206 0.11764705882352941
+Start
+created hits
+sampledoc-0 207 0.5454545454545454
+Start
+created hits
+sampledoc-0 208 0.35294117647058826
+Start
+created hits
+sampledoc-0 209 0.3125
+Start
+created hits
+sampledoc-0 210 0.47619047619047616
+Start
+created hits
+sampledoc-0 211 0.3684210526315789
+Start
+created hits
+sampledoc-0 212 0.6666666666666666
+Start
+created hits
+sampledoc-0 213 0.9285714285714286
+Start
+created hits
+sampledoc-0 214 0.47058823529411764
+Start
+created hits
+sampledoc-0 215 0.3636363636363636
+Start
+created hits
+sampledoc-0 216 0.5901639344262295
+Start
+created hits
+sampledoc-0 217 0.507936507936508
+Start
+created hits
+sampledoc-0 218 0.696969696969697
+Start
+created hits
+sampledoc-0 219 0.4954128440366972
+Start
+created hits
+sampledoc-0 220 0.7575757575757576
+Start
+created hits
+sampledoc-0 221 0.5161290322580646
+Start
+created hits
+sampledoc-0 222 0.5925925925925927
+Start
+created hits
+sampledoc-0 223 0.4000000000000001
+Start
+created hits
+sampledoc-0 224 0.47368421052631576
+Start
+created hits
+sampledoc-0 225 0.6666666666666666
+Start
+created hits
+sampledoc-0 226 0.823529411764706
+Start
+created hits
+sampledoc-0 227 0.5405405405405405
+Start
+created hits
+sampledoc-0 228 0.3157894736842105
+Start
+created hits
+sampledoc-0 229 0.4615384615384615
+Start
+created hits
+sampledoc-0 230 0.5641025641025641
+Start
+created hits
+sampledoc-0 231 0.19047619047619047
+Start
+created hits
+sampledoc-0 232 0.4736842105263158
+Start
+created hits
+sampledoc-0 233 0.36363636363636365
+Start
+created hits
+sampledoc-0 234 0.8181818181818182
+Start
+created hits
+sampledoc-0 235 0.40963855421686746
+Start
+created hits
+sampledoc-0 236 0.6521739130434783
+Start
+created hits
+sampledoc-0 237 0.5161290322580646
+Start
+created hits
+sampledoc-0 238 0.41666666666666663
+Start
+created hits
+sampledoc-0 239 0.3333333333333333
+Start
+created hits
+sampledoc-0 240 0.6153846153846153
+Start
+created hits
+sampledoc-0 241 0.5531914893617021
+Start
+created hits
+sampledoc-0 242 0.4615384615384615
+Start
+created hits
+sampledoc-0 243 0.5679012345679012
+Start
+created hits
+sampledoc-0 244 0.3947368421052631
+Start
+created hits
+sampledoc-0 245 0.5
+Start
+created hits
+sampledoc-0 246 0.5652173913043478
+Start
+created hits
+sampledoc-0 247 0.25
+Start
+created hits
+sampledoc-0 248 0.631578947368421
+Start
+created hits
+sampledoc-0 249 0.4
+Start
+created hits
+sampledoc-0 250 0.5306122448979591
+Start
+created hits
+sampledoc-0 251 0.75
+Start
+created hits
+sampledoc-0 252 0.3
+Start
+created hits
+sampledoc-0 253 0.6944444444444444
+Start
+created hits
+sampledoc-0 254 0.411764705882353
+Start
+created hits
+sampledoc-0 255 0.5660377358490566
+Start
+created hits
+sampledoc-0 256 0.6122448979591836
+Start
+created hits
+sampledoc-0 257 0.5
+Start
+created hits
+sampledoc-0 258 0.25
+Start
+created hits
+sampledoc-0 259 0.5
+Start
+created hits
+sampledoc-0 260 0.896551724137931
+Start
+created hits
+sampledoc-0 261 0.45161290322580644
+Start
+created hits
+sampledoc-0 262 0.4666666666666667
+Start
+created hits
+sampledoc-0 263 1.0
+Start
+created hits
+sampledoc-0 264 0.3928571428571428
+Start
+created hits
+sampledoc-0 265 0.3333333333333333
+Start
+created hits
+sampledoc-0 266 0.49056603773584906
+Start
+created hits
+sampledoc-0 267 0.5
+Start
+created hits
+sampledoc-0 268 0.3636363636363636
+Start
+created hits
+sampledoc-0 269 0.27272727272727276
+Start
+created hits
+sampledoc-0 270 0.5185185185185186
+Start
+created hits
+sampledoc-0 271 0.47058823529411764
+Start
+created hits
+sampledoc-0 272 0.47058823529411764
+Start
+created hits
+sampledoc-0 273 0.7384615384615384
+Start
+created hits
+sampledoc-0 274 0.6666666666666666
+Start
+created hits
+sampledoc-0 275 0.4313725490196078
+Start
+created hits
+sampledoc-0 276 0.23529411764705882
+Start
+created hits
+sampledoc-0 277 0.5405405405405405
+Start
+created hits
+sampledoc-0 278 0.52
+Start
+created hits
+sampledoc-0 279 0.8
+Start
+created hits
+sampledoc-0 280 0.43749999999999994
+Start
+created hits
+sampledoc-0 281 0.5384615384615384
+Start
+created hits
+sampledoc-0 282 0.26666666666666666
+Start
+created hits
+sampledoc-0 283 0.6206896551724138
+Start
+created hits
+sampledoc-0 284 0.37735849056603776
+Start
+created hits
+sampledoc-0 285 0.36065573770491804
+Start
+created hits
+sampledoc-0 286 0.2105263157894737
+Start
+created hits
+sampledoc-0 287 0.5263157894736842
+Start
+created hits
+sampledoc-0 288 0.6666666666666667
+Start
+created hits
+sampledoc-0 289 0.11764705882352941
+Start
+created hits
+sampledoc-0 290 0.37837837837837834
+Start
+created hits
+sampledoc-0 291 0.4150943396226415
+Start
+created hits
+sampledoc-0 292 0.6
+Start
+created hits
+sampledoc-0 293 0.26666666666666666
+Start
+created hits
+sampledoc-0 294 0.1818181818181818
+Start
+created hits
+sampledoc-0 295 0.5599999999999999
+Start
+created hits
+sampledoc-0 296 0.6666666666666665
+Start
+created hits
+sampledoc-0 297 0.2857142857142857
+Start
+created hits
+sampledoc-0 298 0.6842105263157895
+Start
+created hits
+sampledoc-0 299 0.7333333333333333
+Start
+created hits
+sampledoc-0 300 0.24390243902439024
+Start
+created hits
+sampledoc-0 301 0.4583333333333333
+Start
+created hits
+sampledoc-0 302 0.5625
+Start
+created hits
+sampledoc-0 303 0.5098039215686274
+Start
+created hits
+sampledoc-0 304 0.4144144144144144
+Start
+created hits
+sampledoc-0 305 0.8181818181818182
+Start
+created hits
+sampledoc-0 306 0.3902439024390244
+Start
+created hits
+sampledoc-0 307 0.7058823529411764
+Start
+created hits
+sampledoc-0 308 0.7741935483870969
+Start
+created hits
+sampledoc-0 309 0.4444444444444445
+Start
+created hits
+sampledoc-0 310 0.4680851063829787
+Start
+created hits
+sampledoc-0 311 0.8888888888888888
+Start
+created hits
+sampledoc-0 312 0.43636363636363634
+Start
+created hits
+sampledoc-0 313 0.41860465116279066
+Start
+created hits
+sampledoc-0 314 0.42857142857142855
+Start
+created hits
+sampledoc-0 315 0.5762711864406779
+Start
+created hits
+sampledoc-0 316 0.45
+Start
+created hits
+sampledoc-0 317 0.25
+Start
+created hits
+sampledoc-0 318 0.36363636363636365
+Start
+created hits
+sampledoc-0 319 0.39285714285714285
+Start
+created hits
+sampledoc-0 320 0.3333333333333333
+Start
+created hits
+sampledoc-0 321 0.5151515151515151
+Start
+created hits
+sampledoc-0 322 0.5
+Start
+created hits
+sampledoc-0 323 0.4918032786885246
+Start
+created hits
+sampledoc-0 324 0.26666666666666666
+Start
+created hits
+sampledoc-0 325 0.45714285714285713
+Start
+created hits
+sampledoc-0 326 0.14285714285714282
+Start
+created hits
+sampledoc-0 327 0.34782608695652173
+Start
+created hits
+sampledoc-0 328 0.6382978723404256
+Start
+created hits
+sampledoc-0 329 0.5454545454545455
+Start
+created hits
+sampledoc-0 330 0.3555555555555555
+Start
+created hits
+sampledoc-0 331 0.75
+Start
+created hits
+sampledoc-0 332 0.41791044776119407
+Start
+created hits
+sampledoc-0 333 0.5777777777777778
+Start
+created hits
+sampledoc-0 334 0.6666666666666667
+Start
+created hits
+sampledoc-0 335 0.4230769230769231
+Start
+created hits
+sampledoc-0 336 0.4137931034482759
+Start
+created hits
+sampledoc-0 337 0.32
+Start
+created hits
+sampledoc-0 338 0.3095238095238095
+Start
+created hits
+sampledoc-0 339 0.26666666666666666
+Start
+created hits
+sampledoc-0 340 0.4186046511627907
+Start
+created hits
+sampledoc-0 341 0.6666666666666666
+Start
+created hits
+sampledoc-0 342 0.56
+Start
+created hits
+sampledoc-0 343 0.5555555555555556
+Start
+created hits
+sampledoc-0 344 0.4528301886792453
+Start
+created hits
+sampledoc-0 345 0.5
+Start
+created hits
+sampledoc-0 346 0.4210526315789474
+Start
+created hits
+sampledoc-0 347 0.56
+Start
+created hits
+sampledoc-0 348 0.4210526315789474
+Start
+created hits
+sampledoc-0 349 0.7272727272727272
+Start
+created hits
+sampledoc-0 350 0.5555555555555556
+Start
+created hits
+sampledoc-0 351 0.38888888888888884
+Start
+created hits
+sampledoc-0 352 1.0
+Start
+created hits
+sampledoc-0 353 0.6
+Start
+created hits
+sampledoc-0 354 0.4090909090909091
+Start
+created hits
+sampledoc-0 355 0.5333333333333332
+Start
+created hits
+sampledoc-0 356 0.6666666666666666
+Start
+created hits
+sampledoc-0 357 0.30303030303030304
+Start
+created hits
+sampledoc-0 358 0.0
+Start
+created hits
+sampledoc-0 359 0.36363636363636365
+Start
+created hits
+sampledoc-0 360 0.7164179104477613
+Start
+created hits
+sampledoc-0 361 0.28571428571428575
+Start
+created hits
+sampledoc-0 362 0.7142857142857143
+Start
+created hits
+sampledoc-0 363 0.4528301886792453
+Start
+created hits
+sampledoc-0 364 0.5833333333333334
+Start
+created hits
+sampledoc-0 365 0.45669291338582674
+Start
+created hits
+sampledoc-0 366 0.5
+Start
+created hits
+sampledoc-0 367 0.5
+Start
+created hits
+sampledoc-0 368 0.5625
+Start
+created hits
+sampledoc-0 369 0.625
+Start
+created hits
+sampledoc-0 370 0.9090909090909091
+Start
+created hits
+sampledoc-0 371 0.3125
+Start
+created hits
+sampledoc-0 372 0.5263157894736842
+Start
+created hits
+sampledoc-0 373 0.4230769230769231
+Start
+created hits
+sampledoc-0 374 0.3333333333333333
+Start
+created hits
+sampledoc-0 375 0.6153846153846153
+Start
+created hits
+sampledoc-0 376 0.5161290322580646
+Start
+created hits
+sampledoc-0 377 0.25
+Start
+created hits
+sampledoc-0 378 0.5714285714285713
+Start
+created hits
+sampledoc-0 379 0.5
+Start
+created hits
+sampledoc-0 380 0.6363636363636365
+Start
+created hits
+sampledoc-0 381 0.3614457831325302
+Start
+created hits
+sampledoc-0 382 0.6666666666666666
+Start
+created hits
+sampledoc-0 383 0.30769230769230765
+Start
+created hits
+sampledoc-0 384 0.49056603773584906
+Start
+created hits
+sampledoc-0 385 0.6060606060606061
+Start
+created hits
+sampledoc-0 386 0.35000000000000003
+Start
+created hits
+sampledoc-0 387 0.22857142857142856
+Start
+created hits
+sampledoc-0 388 0.5263157894736842
+Start
+created hits
+sampledoc-0 389 0.39999999999999997
+Start
+created hits
+sampledoc-0 390 0.7692307692307693
+Start
+created hits
+sampledoc-0 391 0.17142857142857143
+Start
+created hits
+sampledoc-0 392 0.2978723404255319
+Start
+created hits
+sampledoc-0 393 0.5306122448979592
+Start
+created hits
+sampledoc-0 394 0.6666666666666666
+Start
+created hits
+sampledoc-0 395 0.39999999999999997
+Start
+created hits
+sampledoc-0 396 0.4838709677419355
+Start
+created hits
+sampledoc-0 397 0.5454545454545454
+Start
+created hits
+sampledoc-0 398 0.5116279069767442
+Start
+created hits
+sampledoc-0 399 0.6
+Start
+created hits
+sampledoc-0 400 0.1951219512195122
+Start
+created hits
+sampledoc-0 401 0.64
+Start
+created hits
+sampledoc-0 402 0.5588235294117648
+Start
+created hits
+sampledoc-0 403 0.5490196078431373
+Start
+created hits
+sampledoc-0 404 0.7142857142857143
+Start
+created hits
+sampledoc-0 405 0.5925925925925927
+Start
+created hits
+sampledoc-0 406 0.47058823529411764
+Start
+created hits
+sampledoc-0 407 0.6046511627906977
+Start
+created hits
+sampledoc-0 408 0.5625000000000001
+Start
+created hits
+sampledoc-0 409 0.5581395348837209
+Start
+created hits
+sampledoc-0 410 0.42857142857142855
+Start
+created hits
+sampledoc-0 411 0.5714285714285715
+Start
+created hits
+sampledoc-0 412 0.6153846153846153
+Start
+created hits
+sampledoc-0 413 0.28571428571428575
+Start
+created hits
+sampledoc-0 414 0.5384615384615385
+Start
+created hits
+sampledoc-0 415 0.3333333333333333
+Start
+created hits
+sampledoc-0 416 0.7142857142857143
+Start
+created hits
+sampledoc-0 417 0.6923076923076924
+Start
+created hits
+sampledoc-0 418 0.0
+Start
+created hits
+sampledoc-0 419 0.5
+Start
+created hits
+sampledoc-0 420 0.1875
+Start
+created hits
+sampledoc-0 421 0.3636363636363636
+Start
+created hits
+sampledoc-0 422 0.6
+Start
+created hits
+sampledoc-0 423 0.5555555555555556
+Start
+created hits
+sampledoc-0 424 0.44827586206896547
+Start
+created hits
+sampledoc-0 425 0.6222222222222222
+Start
+created hits
+sampledoc-0 426 0.4864864864864865
+Start
+created hits
+sampledoc-0 427 0.7826086956521738
+Start
+created hits
+sampledoc-0 428 0.35294117647058826
+Start
+created hits
+sampledoc-0 429 0.3703703703703704
+Start
+created hits
+sampledoc-0 430 0.36842105263157887
+Start
+created hits
+sampledoc-0 431 0.6666666666666666
+Start
+created hits
+sampledoc-0 432 0.6666666666666665
+Start
+created hits
+sampledoc-0 433 0.689655172413793
+Start
+created hits
+sampledoc-0 434 0.5365853658536585
+Start
+created hits
+sampledoc-0 435 0.45
+Start
+created hits
+sampledoc-0 436 0.6666666666666666
+Start
+created hits
+sampledoc-0 437 0.5135135135135135
+Start
+created hits
+sampledoc-0 438 0.6
+Start
+created hits
+sampledoc-0 439 0.8000000000000002
+Start
+created hits
+sampledoc-0 440 0.40449438202247195
+Start
+created hits
+sampledoc-0 441 0.41379310344827586
+Start
+created hits
+sampledoc-0 442 0.6875
+Start
+created hits
+sampledoc-0 443 0.1935483870967742
+Start
+created hits
+sampledoc-0 444 0.5555555555555555
+Start
+created hits
+sampledoc-0 445 0.5454545454545454
+Start
+created hits
+sampledoc-0 446 0.8000000000000002
+Start
+created hits
+sampledoc-0 447 0.6363636363636364
+Start
+created hits
+sampledoc-0 448 0.3934426229508197
+Start
+created hits
+sampledoc-0 449 0.5882352941176471
+Start
+created hits
+sampledoc-0 450 1.0
+Start
+created hits
+sampledoc-0 451 0.48
+Start
+created hits
+sampledoc-0 452 0.5116279069767442
+Start
+created hits
+sampledoc-0 453 0.8333333333333334
+Start
+created hits
+sampledoc-0 454 0.5517241379310345
+Start
+created hits
+sampledoc-0 455 0.7777777777777778
+Start
+created hits
+sampledoc-0 456 0.21818181818181817
+Start
+created hits
+sampledoc-0 457 0.48
+Start
+created hits
+sampledoc-0 458 0.23529411764705882
+Start
+created hits
+sampledoc-0 459 0.68
+Start
+created hits
+sampledoc-0 460 0.48000000000000004
+Start
+created hits
+sampledoc-0 461 0.4615384615384615
+Start
+created hits
+sampledoc-0 462 0.6666666666666666
+Start
+created hits
+sampledoc-0 463 0.3571428571428571
+Start
+created hits
+sampledoc-0 464 0.4878048780487805
+Start
+created hits
+sampledoc-0 465 0.14814814814814814
+Start
+created hits
+sampledoc-0 466 0.375
+Start
+created hits
+sampledoc-0 467 0.4418604651162791
+Start
+created hits
+sampledoc-0 468 0.8235294117647058
+Start
+created hits
+sampledoc-0 469 0.9090909090909091
+Start
+created hits
+sampledoc-0 470 0.6153846153846153
+Start
+created hits
+sampledoc-0 471 0.25
+Start
+created hits
+sampledoc-0 472 0.391304347826087
+Start
+created hits
+sampledoc-0 473 0.2962962962962963
+Start
+created hits
+sampledoc-0 474 0.6666666666666666
+Start
+created hits
+sampledoc-0 475 0.29090909090909095
+Start
+created hits
+sampledoc-0 476 0.611111111111111
+Start
+created hits
+sampledoc-0 477 0.47368421052631576
+Start
+created hits
+sampledoc-0 478 0.4848484848484848
+Start
+created hits
+sampledoc-0 479 0.4210526315789474
+Start
+created hits
+sampledoc-0 480 0.5116279069767442
+Start
+created hits
+sampledoc-0 481 1.0
+Start
+created hits
+sampledoc-0 482 0.5
+Start
+created hits
+sampledoc-0 483 1.0
+Start
+created hits
+sampledoc-0 484 0.5
+Start
+created hits
+sampledoc-0 485 0.24999999999999994
+Start
+created hits
+sampledoc-0 486 0.7058823529411764
+Start
+created hits
+sampledoc-0 487 0.4615384615384615
+Start
+created hits
+sampledoc-0 488 0.4838709677419355
+Start
+created hits
+sampledoc-0 489 0.24999999999999994
+Start
+created hits
+sampledoc-0 490 0.5333333333333333
+Start
+created hits
+sampledoc-0 491 0.7199999999999999
+Start
+created hits
+sampledoc-0 492 0.3333333333333333
+Start
+created hits
+sampledoc-0 493 0.26666666666666666
+Start
+created hits
+sampledoc-0 494 0.7042253521126761
+Start
+created hits
+sampledoc-0 495 0.4444444444444445
+Start
+created hits
+sampledoc-0 496 0.5
+Start
+created hits
+sampledoc-0 497 0.5
+Start
+created hits
+sampledoc-0 498 0.3793103448275862
+Start
+created hits
+sampledoc-0 499 0.49180327868852464
+Start
+created hits
+sampledoc-0 500 1.0
+sampledoc-0 0.5070867801254018
