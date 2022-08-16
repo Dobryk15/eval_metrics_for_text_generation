@@ -1,4 +1,5 @@
-# eval_metrics_for_text_generation
+# Evaluation metrics for Natural Language Evaluation with a Focus on MT
+
 This repo is devoted to the comparison of evaluation metrics for NLG systems. The main focus is on the metrics for machine translation.
 
 To obtain the scores of the particular metric, we either run the corresponding notebook located in the `run_metrics_noteboks` directory or set up the external github repository where the metric is implemented and run the code due to instructions there. Notebooks located in the`run_metrics_noteboks` directory are set up to run Google Colab.
